@@ -31,7 +31,7 @@ Structure du projet
 
 Installation et utilisation
 
-1. Cloner le repository : git clone https://github.com/ton-utilisateur/probeats-mockup.git
+1. Cloner le repository : git clone https://github.com/manellouti/probeats-mockup.git
 2. Ouvrir les fichiers .fig avec Figma pour explorer les wireframes et prototypes.
 
    Livrables
